@@ -47,9 +47,4 @@ The program includes the following operations:
 13. **Exit**:
     - Close the program.
 
-## How to Compile and Run
-1. **Clone the Repository**:
-   Clone the project repository to your local machine.
-   ```bash
-   git clone <repository_url>
-   cd <repository_name>
+
